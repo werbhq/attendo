@@ -1,5 +1,5 @@
 # Attendo
-![](https://github.com/amaljoe/attendo-flutter/blob/master/readme-res/attendogo.svg)
+![](https://raw.githubusercontent.com/mak626/attendo/a5939dcef187f33c2b3111349646e748bd616382/icon.svg)
 
 A GSuite Integrated Attendance Tracking App
 
