@@ -21,13 +21,13 @@ A GSuite Integrated Attendance Tracking App
 
 ------------
 <p float="left">
- <img src="https://play-lh.googleusercontent.com/ziLy6mtGQmTI5veZK8kV_lD85_izTPcFthApQCQi-DGfAmlFHwqydPswFQFt3loF73MA=w1536-h722-rw" width="150" />
- <img src="https://play-lh.googleusercontent.com/2KX7rKoRJBmRvGCvPm5FB6fjnC0g1-kFNTbmo9iVgStj_MccCO1fub0Py4tk2EbT2cw=w1536-h722-rw" width="150" /> 
- <img src="https://play-lh.googleusercontent.com/RM_GBTCK1Z_QPcoyaQ_UqsyS-LLjr_SPbF7y48NE38D1R_jAgu3lsXmRFLdNnMCvB3o=w1536-h722-rw" width="150" />
+ <img src="https://play-lh.googleusercontent.com/ziLy6mtGQmTI5veZK8kV_lD85_izTPcFthApQCQi-DGfAmlFHwqydPswFQFt3loF73MA=w1536-h722-rw" width="100" />
+ <img src="https://play-lh.googleusercontent.com/2KX7rKoRJBmRvGCvPm5FB6fjnC0g1-kFNTbmo9iVgStj_MccCO1fub0Py4tk2EbT2cw=w1536-h722-rw" width="100" /> 
+ <img src="https://play-lh.googleusercontent.com/RM_GBTCK1Z_QPcoyaQ_UqsyS-LLjr_SPbF7y48NE38D1R_jAgu3lsXmRFLdNnMCvB3o=w1536-h722-rw" width="100" />
  <br>
- <img src="https://play-lh.googleusercontent.com/hoQaWb28ht_TP7tiPsPwxOHYo-QH8FHD3YiXK_MDte_CVgoMQVXlrE0qcPTSZ6SUISU=w1536-h722-rw" width="150" />
- <img src="https://play-lh.googleusercontent.com/k0vOGBmOlsH7DAGiNg_v8jXTDQgSNwOpVjimdZYOK3IVwsn5p66oGrNFVnWd0vuZ1g=w1536-h722-rw" width="150" /> 
- <img src="https://play-lh.googleusercontent.com/09YiUPM1JMjwGzZkClORwVrNaj0CVw4czbKux16ZHRa5yJlAg773xkjxJPRB2KDyChwB=w1536-h722-rw" width="150" />
+ <img src="https://play-lh.googleusercontent.com/hoQaWb28ht_TP7tiPsPwxOHYo-QH8FHD3YiXK_MDte_CVgoMQVXlrE0qcPTSZ6SUISU=w1536-h722-rw" width="100" />
+ <img src="https://play-lh.googleusercontent.com/k0vOGBmOlsH7DAGiNg_v8jXTDQgSNwOpVjimdZYOK3IVwsn5p66oGrNFVnWd0vuZ1g=w1536-h722-rw" width="100" /> 
+ <img src="https://play-lh.googleusercontent.com/09YiUPM1JMjwGzZkClORwVrNaj0CVw4czbKux16ZHRa5yJlAg773xkjxJPRB2KDyChwB=w1536-h722-rw" width="100" />
 </p>
 
 ------------
