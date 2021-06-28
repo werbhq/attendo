@@ -39,7 +39,7 @@ A GSuite Integrated Attendance Tracking App
  <tr>
             <td align="center">
                 <a href="https://github.com/amaljoe">
-                    <img src="https://avatars.githubusercontent.com/u/16449652?v=4" width="100px;" alt="" />
+                    <img src="https://avatars.githubusercontent.com/u/16449652?v=4" style = "min-width:100px; width:100px;" alt="" />
                     <br>
                     <sub><b>Amal Joe</b></sub>
             </td>
