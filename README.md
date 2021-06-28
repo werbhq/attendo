@@ -16,7 +16,7 @@ A GSuite Integrated Attendance Tracking App
 ------------
 ### Links
 - [App on Playstore](https://rebrand.ly/attendoapp)
-- [Hankbook]( https://rebrand.ly/attendoguide)
+- [Handbook]( https://rebrand.ly/attendoguide)
 - [Frequently Asked Questions](https://rebrand.ly/attendofaq)
 
 ------------
