@@ -18,6 +18,8 @@ A GSuite Integrated Attendance Tracking App
 - [App on Playstore](https://rebrand.ly/attendoapp)
 - [Handbook]( https://rebrand.ly/attendoguide)
 - [Frequently Asked Questions](https://rebrand.ly/attendofaq)
+- [Backend](https://github.com/werbhq/attendo-backend)
+- [Admin Panel](https://github.com/werbhq/attendo-admin)
 
 ------------
 <p float="left">
