@@ -52,8 +52,8 @@ A GSuite Integrated Attendance Tracking App
                     <sub><b>M Aswin Kishore</b></sub>
             </td>
             <td align="center">
-                <a href="https://github.com/nauaneeth">
-                    <img src="https://lh3.googleusercontent.com/a-/AOh14GjrJtHY_znT4uoFYm8Reyn24ggSITTZb491k0hNBw=s88-p-k-rw-no" width="100px;" alt="" />
+                <a href="https://github.com/navaneethvenu">
+                    <img src="https://avatars.githubusercontent.com/u/69888461?v=4" width="100px;" alt="" />
                     <br>
                     <sub><b>Navaneeth Venu</b></sub>
             </td>
@@ -67,19 +67,19 @@ A GSuite Integrated Attendance Tracking App
         <tr>
             <td align="center">
                 <a href="https://github.com/seramg">
-                    <img src="https://lh3.googleusercontent.com/-FyAbNbl4h70/XfOhQRjwTuI/AAAAAAAAAAA/I7JvEY8kg3o60OoafJHmNC6YJM8ukXZwgCOQCEAE/s88-p-k-rw-no/photo.jpg" width="100px;" alt="" />
+                    <img src="https://avatars.githubusercontent.com/u/72828300?v=4" width="100px;" alt="" />
                     <br>
                     <sub><b>Sera Mariam George</b></sub>
             </td>
             <td align="center">
                 <a href="https://github.com/jomi123">
-                    <img src="https://lh3.googleusercontent.com/a-/AOh14GjtwDs_fv7vTIBDiNYFjZtEIYfzPOTWUqqO99w=s88-p-k-rw-no" width="100px;" alt="" />
+                    <img src="https://avatars.githubusercontent.com/u/73014817?v=4" width="100px;" alt="" />
                     <br>
                     <sub><b>Jomi Susan Mathew</b></sub>
             </td>
             <td align="center">
                 <a href="https://github.com/karthikasankar2000">
-                    <img src="https://lh3.googleusercontent.com/a-/AOh14GjMBMEEIxhFq9mDi2RqCZsbQGJwpzTrztlfl1v_aA=s88-p-k-rw-no" width="100px;" alt="" />
+                    <img src="https://avatars.githubusercontent.com/u/72914339?v=4" width="100px;" alt="" />
                     <br>
                     <sub><b>Karthika Shankar U</b></sub>
             </td>
